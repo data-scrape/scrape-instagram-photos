@@ -41,8 +41,44 @@
 - [📊 Data Fields Extracted](#-data-fields-extracted)
 - [💻 Configuration](#-configuration)
 - [🔁 Output Example](#-output-example)
+- [📝 License](#-license)
 - [Related Repositories](#related-repositories)
 - [Support This Project](#-support-this-project)
+
+---
+
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/xiaozhucchongya-byte/scrape-instagram-photos?style=social)](https://github.com/xiaozhucchongya-byte/scrape-instagram-photos)
+[![GitHub forks](https://img.shields.io/github/forks/xiaozhucchongya-byte/scrape-instagram-photos?style=social)](https://github.com/xiaozhucchongya-byte/scrape-instagram-photos/fork)
+[![GitHub issues](https://img.shields.io/github/issues/xiaozhucchongya-byte/scrape-instagram-photos)](https://github.com/xiaozhucchongya-byte/scrape-instagram-photos/issues)
+[![GitHub license](https://img.shields.io/github/license/xiaozhucchongya-byte/scrape-instagram-photos)](https://github.com/xiaozhucchongya-byte/scrape-instagram-photos/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
+
+</div>
+
+
+> Scrape Instagram photos - download photos from any profile in bulk
+
+
+<!-- SEO keywords: scrape instagram photos, Scrape Instagram Photos -->
+
+
+<div align="center">
+
+[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
+
+✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
+
+⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+</div>
+
+---
+
 
 ---
 
@@ -97,6 +133,18 @@ scrape_instagram_photos("username")
 # Returns: [{'url': '...', 'timestamp': '...', 'likes': 123, 'caption': '...'}, ...]
 ```
 
+
+## 📝 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+<sup>Built with ❤️ for the web scraping community</sup>
+
+</div>
 
 
 <!-- INSTALL_SECTION_START -->
@@ -289,15 +337,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 <!-- CONTRIB_SECTION_END -->
 
-
-## 📝 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-<sup>Built with ❤️ for the web scraping community</sup>
-
-</div>
